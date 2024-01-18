@@ -88,3 +88,8 @@
 - [ ] AWS distribution guide.
 - [ ] 其他售票網站
 - [ ] 其他通知方式
+
+### MY TODO
+- [ ] Support for multiple config files (maybe choosing when start?)
+- [ ] Continue to run even if there are tickets available
+- [ ] (Broken) window notification
